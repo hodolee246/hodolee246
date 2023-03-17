@@ -6,6 +6,6 @@
 
 ### Jeon In Woo
 
- - Junior Java Developer
+ - Java Developer
  - <a href="hodolee246.tistory.com">blog</a>
  
